@@ -1,2 +1,2 @@
 # dental-websit
-SmileCare Dental Clinic
+Deskoey Dental Clinic
