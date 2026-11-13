@@ -1,2 +1,2 @@
 # dental-websit
-Deskoey Dental Clinic
+Desokey Dental Clinic
